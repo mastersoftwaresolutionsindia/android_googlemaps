@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="alert">Alert!</string>
+    <string name="enable_gps_wifi">Please Enable GPS and WiFi for Accurate Result</string>
+    <string name="use_wifi">Please Check Use wireless networks for Accurate Result</string>
+    <string name="enable_wifi">Please Enable Wifi for Accurate Result</string>
+
+</resources>
